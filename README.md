@@ -2,7 +2,7 @@
   <img src="Untitled37_20260803020440.png"
 width='600'>
 </p>
-<p align="center">
+<p align="center" style="margin:10px 0;">
   <img src="IMG_1568.gif"
 width='500'>
 </p>
