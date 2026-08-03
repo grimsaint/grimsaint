@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="Untitled37_20260803020440.png">
+  <img src="Untitled37_20260803020440.png"
+width='700'>
 </p>
 <p align="center">
   <img src="IMG_1568.gif">
