@@ -1,6 +1,6 @@
 <p align="center">
   <img src="Untitled37_20260803020440.png"
-width='700'>
+width='600'>
 </p>
 <p align="center">
   <img src="IMG_1568.gif"
@@ -18,5 +18,5 @@ width='500'>
 </p>
 <p align="center">
   <img src="Untitled37_20260803020437.png"
-width='700'>
+width='600'>
 </p>
