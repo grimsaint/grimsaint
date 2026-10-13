@@ -1,5 +1,5 @@
 <p align="center">
-  disc: .grsw&nbsp;&nbsp; . &nbsp;&nbsp;<a href="https://nom.atabook.org/">ata</a>
+  disc: .grsw&nbsp;&nbsp;     .      &nbsp;&nbsp;<a href="https://nom.atabook.org/">ata</a>
 </p>
 <p align="center">
   <img src="4582871e3c7f78d5e1646edc4bc03597.gif"
