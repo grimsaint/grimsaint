@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="b4a3342fa3dcc63e266b025083a30a7b.gif"
+  <img src="4582871e3c7f78d5e1646edc4bc03597.gif"
 width='300'>
 </p>
