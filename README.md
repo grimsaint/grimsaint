@@ -1,4 +1,5 @@
 <p align="center">
-  <img src="Không Có Tiêu Đề146_20261025141717" width="600">
+  <img src="./Không%20Có%20Tiêu%20Đề146_20261025141717.png" width="400">
 </p>
+
 
