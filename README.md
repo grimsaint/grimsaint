@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./nom.svg" />
+  <img src="./nom.svg." />
 </p>
 <p align="center">
   <a href="https://nom.atabook.org/">
