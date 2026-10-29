@@ -1,17 +1,15 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="48" viewBox="0 0 380 48">
-  <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#b8aabd"/>
-      <stop offset="50%" stop-color="#d0b8c1"/>
-      <stop offset="100%" stop-color="#f0d9b9"/>
-    </linearGradient>
-  </defs>
-  <g font-family="Arial, sans-serif" font-size="14" fill="url(#g)">
-    <text x="8" y="16">→ nom . he/him . 21↑ . 0308</text>
-    <text x="145" y="38" font-size="12">↓15 dni</text>
-  </g>
-</svg>
+<p align="center">
+  <samp>
+    <font color="#b8aabd">→ nom</font>
+    <font color="#c5adbd"> . he/him . </font>
+    <font color="#d8bdc1">21↑</font>
+    <font color="#ead6bb"> . 0308</font>
+    <br>
+    <font color="#cbb8c5">　　　　　　↓15 dni</font>
+  </samp>
+</p>
+
 
 <p align="center">
   <a href="https://nom.atabook.org/">
