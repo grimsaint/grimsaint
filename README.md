@@ -1,10 +1,3 @@
-
-
-<div align="center">
-  <img src="./bio.svg" width="400" alt="nom bio" />
-</div>
-
-
 <p align="center">
   <a href="https://nom.atabook.org/">
     <img src="IMG_20261025_201659.png" width="200">
