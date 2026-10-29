@@ -1,5 +1,6 @@
 
-<p align="center">
+
+<p align="right">
   <img src="./bio.svg" alt="nom bio">
 </p>
 
