@@ -1,12 +1,8 @@
 
-<table align="center">
-  <tr>
-    <td width="60"></td>
-    <td>
-      <img src="./bio.svg" width="400" alt="nom bio" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <img src="./bio.svg" width="400" alt="nom bio" />
+</div>
 
 
 <p align="center">
