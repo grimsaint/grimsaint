@@ -1,0 +1,29 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="110" viewBox="0 0 600 110">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D0B5BD"/>
+      <stop offset="28%" stop-color="#D8C5CB"/>
+      <stop offset="55%" stop-color="#BFB7CA"/>
+      <stop offset="78%" stop-color="#D0CFCA"/>
+      <stop offset="100%" stop-color="#DEDDCF"/>
+    </linearGradient>
+  </defs>
+
+  <text x="300" y="38" text-anchor="middle"
+        fill="url(#g)" font-family="serif" font-size="34">𝔫𝔬𝔪</text>
+
+  <g fill="url(#g)" font-family="serif" font-size="15" text-anchor="middle">
+    <text x="180" y="63">2x↑</text>
+    <text x="300" y="63">he</text>
+    <text x="420" y="63">03.08</text>
+  </g>
+
+  <line x1="205" y1="73" x2="395" y2="73"
+        stroke="url(#g)" stroke-width="1.2"/>
+
+  <text x="300" y="93" text-anchor="middle"
+        fill="url(#g)" font-family="Georgia, serif" font-size="12">
+    usually afk [working or busy]
+  </text>
+</svg>
