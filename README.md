@@ -1,15 +1,7 @@
 
 <p align="center">
-  <samp>
-    <font color="#b8aabd">→ nom</font>
-    <font color="#c5adbd"> . he/him . </font>
-    <font color="#d8bdc1">21↑</font>
-    <font color="#ead6bb"> . 0308</font>
-    <br>
-    <font color="#cbb8c5">　　　　　　↓15 dni</font>
-  </samp>
+  <img src="./bio.svg" alt="nom bio">
 </p>
-
 
 <p align="center">
   <a href="https://nom.atabook.org/">
