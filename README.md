@@ -1,8 +1,7 @@
+<div align="right">
+  <img src="./bio.svg" width="400" alt="nom bio">
+</div>
 
-
-<p align="right">
-  <img src="./bio.svg" alt="nom bio">
-</p>
 
 <p align="center">
   <a href="https://nom.atabook.org/">
